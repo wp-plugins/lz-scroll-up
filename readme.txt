@@ -49,9 +49,9 @@ Just Contact Us Click Here: <a href="http://www.lumianszone.com" target="_blank"
 
 == Screenshots ==
 
-1. Option panal.
+1. Plugin Screenshot Demo
 
-2. Plugin Screenshot Demo
+2. Option panal.
 
 == Changelog ==
 
