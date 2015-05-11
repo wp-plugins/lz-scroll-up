@@ -58,6 +58,5 @@ Just Contact Us Click Here: <a href="http://www.lumianszone.com" target="_blank"
 = 1.0 =
 * Inial Release
 
-== Arbitrary section ==
 
 
