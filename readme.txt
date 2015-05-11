@@ -45,7 +45,7 @@ you will get plugin option panel to easily customize this plugin.
 
 = Do you found any bugs? =
 
-Just Contact Us Click Here: <a href="http://www.lumianszone.com" target="_blank">Touch Point</a>.
+Just Contact Us Click Here: <a href="http://www.lumianszone.com" target="_blank">Lumians Zone</a>.
 
 == Screenshots ==
 
