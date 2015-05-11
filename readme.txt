@@ -23,7 +23,7 @@ This plugin will add a Scroll To Up button in your site footer right. Here is ve
 	<li>24/7 Support for free</li>
 </ul>
 
-<strong>Demo</strong> <a href="http://www.lumianszone.com/demos" target="_blank">http://www.lumianszone.com/demos</a> 
+<strong>Wanna see how it's works? Click here :</strong> <a href="http://lumianszone.com/plugins/lz-scroll-up/" target="_blank">http://lumianszone.com/plugins/lz-scroll-up/</a> 
 
 
 
